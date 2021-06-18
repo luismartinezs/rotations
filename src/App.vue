@@ -1,5 +1,5 @@
 <template>
-  <div>My timer</div>
+  <div class="text-pink-500">My timer</div>
 </template>
 
 <script>
